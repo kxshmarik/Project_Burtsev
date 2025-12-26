@@ -3,7 +3,7 @@
 """
 
 import sys
-from main import ProverkaSSLCert
+from ssl_checker import ProverkaSSLCert
 
 
 def obrabotka_odin(sait, test_chain):
